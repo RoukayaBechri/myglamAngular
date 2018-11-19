@@ -1,1 +1,210 @@
-/* You can add global styles to this file, and also import other style files */
+header.masthead {
+    text-align: center;
+    background: url('./../../Myglam/src/assets/ResHome/images/bg.png') no-repeat; 
+    background-size: 100% 100%;
+
+    }
+
+header.masthead .intro-text {
+    padding: 14% 7% 17% 3% !important;
+}
+
+a{   
+color: white !important;
+}
+
+.myNav{
+   
+    margin: 9% 0% 0% 19% !important;
+   
+   
+}
+#logo{
+    margin: 3% 3% 10% 31%;
+   
+  
+}
+.nav-link {
+    padding: 1.1em 1em!important;
+}
+
+.intro-lead-in {
+    font-size: 40px;
+    font-style: italic;
+    line-height: 40px;
+    margin-bottom: 25px;
+    font-family: 'Droid Serif',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+}
+
+header.masthead .intro-text .intro-lead-in {
+    color: white;
+    font-size: 22px;
+    font-style: italic;
+    line-height: 22px;
+    margin-bottom: 25px;
+    font-family: 'Droid Serif',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+}
+#footer{
+    margin-left: 50%;
+    margin-top: -9%;
+}
+.firstbtn{
+background: transparent !important;
+border-color: white !important;
+}
+.para{
+    color:white !important;
+    width: 65%;
+    margin-left: 13%;
+}
+.line
+{
+    margin-bottom: 7%;
+}
+.title
+{
+    margin-top: 10%;
+}
+
+.service-heading {
+    margin: 10% 0% 3% 0%;
+    text-transform: none;
+}
+
+.text-muted {
+    margin-left: 22% !important;
+    width: 63% !important;
+}
+
+.reserveButton {
+    margin: 10% 0% 2% 38%;
+    padding: 2% 8% 2% 8% !important;
+    border: none !important;
+    background: url('./../../Myglam/src/assets/ResHome/images//btn_2_normal@1x.png') no-repeat !important;
+}
+
+#contact {
+    background-image: url('./../../Myglam/src/assets/ResHome/images/news_letter_background_image_home@1x.png');
+    
+    background-size: 100% 100% ;
+    
+}
+
+#contact .form-group input.form-control {
+    height: auto;
+}
+
+#contact .form-group input, section#contact .form-group textarea {
+    padding: 22%;
+}
+.NavContact{
+   
+    position: relative !important;
+   
+}
+
+section{
+    padding: 74px 0 !important;
+}
+
+.sub{
+    margin-top: -7%;
+    color: white !important;
+    font-size: 22px !important;
+    margin-bottom: 1%;
+}
+.stay{
+    margin-left: 1% !important;
+    width: 100% !important;
+    font-size: 13px
+}
+
+.myForm{
+    margin: 8% 4% 5% 5% !important;
+}
+.group{
+    padding: 0% 0% 0% 3% !important;
+    margin: -10% 0% 0% -18% !important;
+}
+
+.inputmail{
+    border-radius: 0;
+    padding: 4% 33% 4% 17% !important;
+}
+.btnSend{
+    border: none !important;
+    background: url('./../../Myglam/src/assets/ResHome/images/send_btn_home_pressed@1x.png') no-repeat !important;
+
+}
+
+.social{
+    padding-right: 2%;
+}
+#capital{
+    background-image: url('./../../Myglam/src/assets/ResHome/images//recomended_background_image@1x.png');
+    -webkit-background-size: cover ;
+    -moz-background-size: cover ;
+    -o-background-size: cover ;
+    background-size: cover ;
+ 
+}
+.capitaltitle{
+margin-bottom: 1%;
+    margin-top: 0%;
+    color: white;
+    font-size: 17px;
+}
+
+.carousel-indicators li {
+    border-radius: 20px !important;
+    margin: 1px 3px !important;
+    height: 10px !important;
+    max-width: 10px;
+    border: 1px solid #FFF!important;
+    background-color: transparent !important;
+}
+.carousel-indicators .active {
+    background-color:palevioletred !important;
+    max-width: 12px !important;
+    margin: 0 3px !important;
+    height: 12px !important;
+}
+.indicateur{
+margin: 0% 0% -5% 0% !important;
+}
+.prev, .next{
+    visibility: hidden !important;
+}
+.caption{
+    margin: -2% !important;
+    font-size: 13px !important;
+}
+.image{
+    
+    margin-bottom: 6% !important;
+}
+
+.left{
+    margin-top: 8% !important;
+}
+.intro{
+    margin: 1% -21% 6% 9% !important;
+}
+.down{
+    margin-left: 7% !important;
+    margin-bottom: -4%;
+}
+.titre{
+
+    color: #c95454fa !important;
+    font-size: 22px !important;
+}
+.list-group{
+    list-style: none !important;
+}
+.navbarTop{
+    position: absolute !important;
+}
+body{
+    overflow-x: hidden !important;
+}
